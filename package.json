@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/compedit/react-youtube",
   "dependencies": {
-    "youtube-player": "https://github.com/Jhonte/youtube-player.git#39a41d2fe37d3c8d36527edd81144e1e1b584245",
+    "youtube-player": "https://github.com/Jhonte/youtube-player/tarball/39a41d2fe37d3c8d36527edd81144e1e1b584245",
     "lodash.isequal": "^4.4.0"
   },
   "devDependencies": {
